@@ -1,2 +1,4 @@
-# Python
-Repositório dedicado ao armazenamento de códigos com o objetivo de estudar a linguagem Python
+# 🐍 Estudando Python
+🚧`em construção`🚧
+## Foco do repositório
+- O objetivo deste repositório é armazenar códigos desenvolvidos na linguagem de programação Python.
