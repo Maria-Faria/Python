@@ -2,6 +2,7 @@ name = "Maria"
 age = 20
 profession = "Programadora"
 language = "Python"
+balance = 45.435
 
 data = {"name": "Maria", "age": 20}
 
@@ -17,3 +18,4 @@ print("Nome: {name} Idade: {age}".format(**data)) # usando um dicionário
 
 # f-string
 print(f"Nome: {name} Idade: {age}")
+print(f"Nome: {name} Idade: {age} Saldo: {balance:.2f}") # argumento antes do ponto --> espaço antes do número
