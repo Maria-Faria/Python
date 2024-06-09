@@ -104,3 +104,8 @@ linguagens.index("python") # 0
 ```
 
 ### len
+```python
+linguagens = ("python", "js", "c", "java", "csharp",)
+
+len(linguagens) # 5
+```
