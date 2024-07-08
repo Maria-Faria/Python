@@ -7,8 +7,6 @@
 - A variável de um objeto só pode ser alterada pelo método desse objeto
 - getters e setters
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/48347520-d389-4c9f-8b1c-fc7878f42221/5dc9104e-dd27-4503-8533-cfe2dde995aa/Untitled.png)
-
 ## Recursos públicos e privados
 
 ### Modificadores de acesso
